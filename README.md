@@ -1,17 +1,19 @@
 ## AWS DevSecOps Pipeline
 
-DevSecOps pipeline using AWS cloud native services and open source security vulnerability scanning tools.
-
-![CodeBuild badge](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoieDJkVmY0VXl2bVRjaFdBYkRzZExTNS9ZTUZVQXE4Sy9GMkh1dk1sOE54VkJKcEowOGdXcnJiZDlGL1RGeXJGUmR5UHlWT1psaks2N1dKbk5qUSt6L1BnPSIsIml2UGFyYW1ldGVyU3BlYyI6InhST3ZVeEZ6bkxLWC9IZG4iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
-
 ![](https://i.imgur.com/waxVImv.png)
-
-# Roadmaps are now interactive, you can click the nodes to read more about the topics.
-
 ### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+<br/>
 
-![](https://i.imgur.com/waxVImv.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong🇻🇳🇻🇳🇻🇳🇻🇳🇻)](https://git.io/typing-svg)
 
+# **About Me🇻**
+- ✍️ Blogger
+- ⚽ Football Player
+- ♾️ DevOps Engineer
+- ⭐ Open-source Contributor
+- 😄 Pronouns: Mr. Nho Luong
+- 📚 Lifelong Learner | Always exploring something new
+- 📫 How to reach me: luongutnho@hotmail.com
 
 This DevSecOps pipeline uses AWS DevOps tools CodeBuild, AWS CodeCommit, AWS CodeDeploy, and AWS CodePipeline along with other AWS services.  It is highly recommended to fully test the pipeline in lower environments and adjust as needed before deploying to production.
 
@@ -56,17 +58,20 @@ Note: The provided CloudFormation template in this blog is formatted for AWS Gov
 Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 SPDX-License-Identifier: MIT-0
 
-I'm are always open to your feedback.  Please contact as bellow information:
-### [Contact ]
-* [Name: nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
+![](https://i.imgur.com/waxVImv.png)
+# I'm are always open to your feedback🚀
+# **[Contact Me🇻]**
+* [Name: Nho Luong]
+* [Telegram](+84983630781)
+* [WhatsApp](+84983630781)
+* [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](bitfield.png)
+![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
-# License
-* Nho Luong (c). All Rights Reserved.
+# License🇻
+* Nho Luong (c). All Rights Reserved.🌟
+
+
